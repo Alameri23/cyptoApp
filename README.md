@@ -1,1 +1,5 @@
 # cyptoApp
+
+
+
+## Requirements
