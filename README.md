@@ -10,5 +10,6 @@
 ```bash
 https://github.com/Alameri23/cyptoApp.git
 cd cyptoApp
-pip cyptoApp.py
 ```
+## Usage
+Type ```python cyptoApp/cyptoApp.py``` to run the tool.
